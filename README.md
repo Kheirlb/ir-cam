@@ -1,5 +1,4 @@
-# ir-cam
-Thermal Infrared Camera for Propulsion Testing and Analysis
+# Thermal Infrared Camera for Propulsion Testing and Analysis
 
 This project's objective is to support the SDSU Rocket Project team and their mission.
 
