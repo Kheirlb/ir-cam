@@ -19,5 +19,5 @@ All software derives from initial work performed by GroupGets and the helpful co
 - Reliability (Code Segmentation Faults, Bugs, Crashing)
 - Setup Time (Feeds into the above 5)
 - Security (Multiple Viewing but One Controller, Password)
-- Media (Broadcasting to Internet, Broadcasting to All Bunkers)
+- Media (Broadcasting to Internet, Broadcasting to All Bunkers, Broadcasting with Other Data)
 - Uses (Hot Fire, Pan/Tilt, Recording, Overlay, Outreach)
